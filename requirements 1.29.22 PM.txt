@@ -1,0 +1,6 @@
+jiwer
+werpy
+numpy
+pandas
+scipy
+statsmodels
